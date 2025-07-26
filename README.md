@@ -15,6 +15,7 @@ It can be used in websites, dashboards, or admin panels.
 ## 📁 Project Structure
 
 sidebar-menu/
+
 ├── index.html → Main HTML file
 
 ├── style.css → Styling for sidebar
