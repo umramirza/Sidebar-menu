@@ -11,6 +11,8 @@ It can be used in websites, dashboards, or admin panels.
 - Easy to customize
 - Built using only HTML and CSS
 
+## 🌐 Live Demo
+👉 [Click here to view](https://umramirza.github.io/Sidebar-menu/)
 
 ## 📁 Project Structure
 
@@ -31,7 +33,6 @@ sidebar-menu/
 1. Download or clone this repository.
 2. Open the project folder.
 3. Open the `index.html` file in any web browser to view the sidebar layout.
-
 
 
 ## Built With
