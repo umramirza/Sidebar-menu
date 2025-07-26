@@ -16,8 +16,11 @@ It can be used in websites, dashboards, or admin panels.
 
 sidebar-menu/
 ├── index.html → Main HTML file
+
 ├── style.css → Styling for sidebar
+
 ├── cameraaa.webp → Image used in design
+
 └── README.md → Project documentation
 
 ---
