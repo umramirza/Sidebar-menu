@@ -14,7 +14,12 @@ It can be used in websites, dashboards, or admin panels.
 ## 🌐 Live Demo
 👉 [Click here to view](https://umramirza.github.io/Sidebar-menu/)
 
-## 📁 Project Structure
+## 📸 Preview
+
+![Sidebar Menu Preview](Screenshot.png)
+
+
+## 📁 Project Structurec
 
 sidebar-menu/
 
@@ -41,7 +46,14 @@ sidebar-menu/
 - CSS3
 
 
-## Author
+## 📄 License  
+This project is licensed under the [MIT License](LICENSE).  
+© 2025 Umra Mirza
 
-Umra Mirza  
-BCA Student | Frontend Developer  
+
+## 🙋‍♀️ Author
+
+**Umra Mirza**  
+🎓 BCA Student | 💻 Frontend Developer  
+🔗 [GitHub](https://github.com/umramirza) • [LinkedIn](https://www.linkedin.com/in/umra-mirza-4525962a2)
+Email : <a href="mailto:mirzaumra0@gmail.com">
