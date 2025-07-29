@@ -19,7 +19,7 @@ It can be used in websites, dashboards, or admin panels.
 ![Sidebar Menu Preview](Screenshot.png)
 
 
-## 📁 Project Structurec
+## 📁 Project Structure
 
 sidebar-menu/
 
@@ -56,4 +56,4 @@ This project is licensed under the [MIT License](LICENSE).
 **Umra Mirza**  
 🎓 BCA Student | 💻 Frontend Developer  
 🔗 [GitHub](https://github.com/umramirza) • [LinkedIn](https://www.linkedin.com/in/umra-mirza-4525962a2)
-Email :<a href="mailto:mirzaumra0@gmail.com" target="_blank">
+
